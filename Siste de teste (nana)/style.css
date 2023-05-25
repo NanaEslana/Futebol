@@ -1,0 +1,23 @@
+header{
+    font-family: Arial, 16px;
+    font-size: Arial,italic,12px;
+    background-color: white;
+    
+}
+
+h2 {
+    font-size: 20px;
+    background-color: ;
+    
+}
+body {
+    background-color: rgb(63, 63, 218);
+    width: 700px;
+    margin: auto;
+    box-shadow: 3px 3px 3px 5px rgba(0, 0, 0, 0.418);
+
+}
+
+img.lado {
+    float: right;
+}
